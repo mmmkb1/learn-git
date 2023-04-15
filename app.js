@@ -1,3 +1,3 @@
 function something(){
-    console.log('something')
+    console.log('somethingasdfadsfadsf')
 }
